@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "gamming-app",
+    "slug": "gamming-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
